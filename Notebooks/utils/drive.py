@@ -6,7 +6,7 @@ from importlib.machinery import SourceFileLoader
 
 
 class MyDrive():
-  def __init__(self, service, root="Colab Workspace"):
+  def __init__(self, service, root=""):
     self.service = service
     self.root = root
     self.cache = {"":"root"}
