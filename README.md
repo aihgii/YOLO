@@ -4,7 +4,7 @@ YOLO
 
 ## Overview
 
-This codebase is an implementation of the YOLO [[1]] object detection architecture, utilizing Google Colaboratory notebooks within a custom Google Cloud Platform (GCP) environment, with a focus on educational goals.
+This codebase is an implementation of the YOLO [[1]] object detection architecture, utilizing [Google Colaboratory](https://colab.research.google.com/github/aihgii/YOLO/blob/main/Colab%20Notebooks/YOLO.ipynb) notebooks within a custom Google Cloud Platform (GCP) environment, with a focus on educational goals.
 
 ---
 ## Prerequisites
